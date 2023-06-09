@@ -2,7 +2,7 @@
 This is an example repo for Documentation for Developers.
 
 ## Introduction
-This repository contains no code, but if it did, it would display pictures of dogs.
+This repository contains no code, but if it did, it would display pictures of [dogs](https://en.wikipedia.org/wiki/Dog).
 
 ## Getting Started
 Install the component's dependencies using:
