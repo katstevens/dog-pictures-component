@@ -1,21 +1,6 @@
 # Dog Pictures
-This is an example repo for Documentation for Developers.
+Way back in the mists of time, dogs evolved from wlves and became human's best freind. Lorem ipsum dolor sit amet this repository contains no code, but if it did, it would display pictures of dogs.
 
-## Introduction
-This repository contains no code, but if it did, it would display pictures of [dogs](https://en.wikipedia.org/wiki/Dog).
+`Todo: remember to add some instrctions` 
 
-## Getting Started
-Install the component's dependencies using:
-
-```
-npm install
-```
-
-Run the component locally with:
-
-```
-npm start
-```
-
-## Troubleshooting
-You may encounter an error with the commands above, because the code does not exist yet.
+You can run the component locally with npm start if you really have to, I guess
